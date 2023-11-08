@@ -1,0 +1,50 @@
+body{
+    background-color: darkviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+}
+header{
+    background-color: fuchsia;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    background-position-x: -400px;
+}
+main{
+    background-color: darkslategray;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+footer{
+    background-color: dimgrey;
+}
+.f_right{
+    float: right;
+}
+.f_left{
+    float: left;
+}
+li{
+    list-style: none;
+    padding: 20px;
+}
+ul{
+    display: flex;
+}
+.container{
+    display: flex;
+    width: 80%;
+    height: 90%;
+}
+div{
+    width: 50%;
+    height: 90%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
